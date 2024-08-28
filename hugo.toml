@@ -1,4 +1,4 @@
-baseURL = "https://example.org/"
+baseURL = "https://arampatzis.github.io/"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 theme = "hermit-v2"
@@ -37,8 +37,8 @@ expiryDate = ["expiryDate"]
 
 [params.author]
   name = "Georgios Arampatzis"
-  email = "john@example.org"
-#  about = "About, about, about..."
+  email = "georgios.arampatzis@uoc.gr"
+#  about = "about"
 
 [blackfriday]
   # hrefTargetBlank = true
