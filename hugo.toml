@@ -29,11 +29,10 @@ enableEmoji = true
 #    id = ''
 
 [frontmatter]
-date = ["date", "publishDate", "lastmod"]
-lastmod = ["lastmod", ":git", "date", "publishDate"]
-publishDate = ["publishDate", "date"]
-expiryDate = ["expiryDate"]
-
+  date = ["date", "publishDate", "lastmod"]
+  lastmod = ["lastmod", ":git", "date", "publishDate"]
+  publishDate = ["publishDate", "date"]
+  expiryDate = ["expiryDate"]
 
 [params.author]
   name = "Georgios Arampatzis"
@@ -51,15 +50,14 @@ expiryDate = ["expiryDate"]
   # category = "categories"
 
 # Enable to get proper Mathjax support
-#[markup]
-#  [markup.goldmark]
-#    [markup.goldmark.extensions]
-#      [markup.goldmark.extensions.passthrough]
-#        enable = true
-#        [markup.goldmark.extensions.passthrough.delimiters]
-#          block = [['\[', '\]'], ['$$', '$$']]
-#          inline = [['\(', '\)']]
-
+[markup]
+ [markup.goldmark]
+   [markup.goldmark.extensions]
+     [markup.goldmark.extensions.passthrough]
+       enable = true
+       [markup.goldmark.extensions.passthrough.delimiters]
+         block = [['\[', '\]'], ['$$', '$$']]
+         inline = [['\(', '\)']]
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -84,8 +82,10 @@ expiryDate = ["expiryDate"]
   homeSubtitlePrinter = true
   scrollToTop = true
   global_mathjax = false
-  readTime = true
-  readTimeSeparator = "CHANGE ME READ TIME"
+  
+  readTime = false
+  # readTimeSeparator = "\u2026 \u23F2 Reading Time:"
+  
   # legacyLayout = false
   shareSocial = true
   # googleTagManager = "GTM-XXXXXXXX"
@@ -122,11 +122,16 @@ expiryDate = ["expiryDate"]
     weight = 20
 
   [[menu.main]]
-    name = "Code"
-    url = "code/"
+    name = "Coding"
+    url = "coding/"
     weight = 30
 
 [[menu.main]]
     name = "Teaching"
     url = "teaching/"
-    weight = 30
+    weight = 40
+
+[[menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 50    
