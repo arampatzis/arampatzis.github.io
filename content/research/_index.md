@@ -5,14 +5,14 @@ draft = false
 +++
 
 
-- Kičić I., Vlachas P., Arampatzis G, Chatzimanolakis M., Guibas L., Koumoutsakos P., **Adaptive reduced-order modeling, Computer simulations, Machine learning, Online real-time learning, Continuous learning, Navier–Stokes equations**, Computer Methods in Applied Mechanics and Engineering, 2023
+- Kičić I., Vlachas P., Arampatzis G, Chatzimanolakis M., Guibas L., Koumoutsakos P., [Adaptive learning of effective dynamics for online modeling of complex systems](https://cse-lab.seas.harvard.edu/sites/projects.iq.harvard.edu/files/cse-lab/files/kicic2023a.pdf), Computer Methods in Applied Mechanics and Engineering, 2023
 
 
-- Vlachas P.R.,  Arampatzis G.,  Uhler C., and  Koumoutsakos P.,  **Learning the Effective Dynamics of Complex Multiscale Systems**, Nature Machine Inteligence, 2022.
+- Vlachas P.R.,  Arampatzis G.,  Uhler C., and  Koumoutsakos P.,  [Learning the Effective Dynamics of Complex Multiscale Systems](https://www.nature.com/articles/s42256-022-00464-w), Nature Machine Inteligence, 2022.
 
--  Martin S.M.,  Wälchli D.,  Arampatzis G.,  Koumoutsakos P.   **Korali: Extreme-Scale Bayesian Uncertainty Quantification and Optimization**, Computer Methods in Applied Mechanics and Engineering, 2021.
+-  Martin S.M.,  Wälchli D.,  Arampatzis G.,  Koumoutsakos P.   [Korali: Extreme-Scale Bayesian Uncertainty Quantification and Optimization](https://arxiv.org/abs/2005.13457), Computer Methods in Applied Mechanics and Engineering, 2021.
 	
--  Economides A.,  Arampatzis G., Alexeev D.,  Litvinov S., Amoudruz L.,  Kulakova L.,  Papadimitriou C., and Koumoutsakos P. **Hierarchical Bayesian Uncertainty Quantification for a Red Blood Cell Mode**, Physical Review Applied, 2021.
+-  Economides A.,  Arampatzis G., Alexeev D.,  Litvinov S., Amoudruz L.,  Kulakova L.,  Papadimitriou C., and Koumoutsakos P. [Hierarchical Bayesian Uncertainty Quantification for a Red Blood Cell Mode](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.15.034062), Physical Review Applied, 2021.
 	
 -  Biller-Andorno N., Ferrario A., Joebges S., Krones T., Massini F.,  Barth P.,  Arampatzis G.,  Krauthammer M. **AI support for ethical decision-making around resuscitation: proceed with care**, Journal of Medical Ethics, 2021.
 
