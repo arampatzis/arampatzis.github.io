@@ -4,7 +4,7 @@ date = 2024-09-04
 draft = false
 +++
 
-{{< figure src="/me.jpg" width="400">}}
+{{< figure src="/me.webp" width="500">}}
 
 My name is Georgios Arampatzis. 
 I am an Assistant Professor of Statistics and Machine Learning in the 
