@@ -47,7 +47,7 @@ If you don't know Python, start with this book.
 If you want to become an expert in Python, read this book. At least the first half in order
 to call yourself an expert at the basics of Python.
 
-## Pythorch
+## Pytorch
 
 - [Programming PyTorch for Deep Learning](https://www.oreilly.com/library/view/programming-pytorch-for/9781492045342/):
 Learn Pytorch on modern applications. The book can be found for free 
