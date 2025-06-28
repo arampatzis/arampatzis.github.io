@@ -9,7 +9,7 @@ type = 'posts'
 questions selected from a user-defined pool of questions. The final exam is generated 
 as a LaTeX document and compiled into a PDF. Multiple exams can be created at once.
 
-To install it with `pipx` (see also [this article](https://arampatzis.github.io/coding/pipx/)),
+To install it with `pipx` (see also [this article](https://arampatzis.github.io/en/coding/pipx/)),
 run the following command:
 
 ```bash
