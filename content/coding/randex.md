@@ -18,13 +18,15 @@ pipx install randex
 
 Now you can use the `randex` CLI tool to create exams.
 
+## Download examples
+
 First, download some example to demonstrate the usage of the CLI tool:
 
 ```bash
 randex download-examples
 ```
 
-### Create an exam with all the available questions
+## Create an exam with all the available questions
 
 Then run:
 
@@ -38,9 +40,9 @@ Use the flag `--show-answers` to show the answers in the exam.
 
 Open the file `tmp/exam.pdf` to see the exam.
 
-### Create a batch of exams
+## Create a batch of exams
 
-To create a batch of exams, you can use the `randex create-batch` command.
+To create a batch of exams, you can use the `randex batch` command.
 
 ```bash
 randex batch -b 5 -n 2 -n 2 -n 2 -t examples/en/template-exam.yaml -o tmp --overwrite "examples/en/folder_*"
