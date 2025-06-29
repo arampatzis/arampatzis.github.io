@@ -53,6 +53,25 @@ The exams will be saved in the `tmp` folder.
 Open the file `tmp/exams.pdf` to see all the exams.
 
 
+## Grade the batch of exams
+
+First create a batch of exams in a `tmp` folder.
+Then create a csv file with random answers to the exams,
+
+```sh
+randex random-answers -e tmp/exams.yaml
+```
+
+Then grade the exams,
+
+```sh
+randex grade -e tmp/exams.yaml -g tmp/answers.csv
+```
+
+The `-n` option can be used to specify the negative score for each wrong answer.
+If not provided, the negative score is computed as `1 / (number of answers - 1)`
+for each question.
+Set it to `0` to disable the negative scoring.
 
 
 
