@@ -8,7 +8,7 @@ type = 'posts'
 
 ### Account Setup
 
-1.  Send me your preferred username: `{USERNAME}`.
+1.  Send me your preferred username: `{USERNAME}`
 2.  Choose a name for the server: `{HOSTNAME}`
 2.  Open a terminal and run the following command to generate your key pair
 (press Enter when prompted to leave the passphrase empty):
@@ -45,4 +45,3 @@ ssh -i ~/.ssh/{HOSTNAME} {USERNAME}@{IP_ADDRESS}
     ```bash
     ssh {HOSTNAME}
     ```
-    
