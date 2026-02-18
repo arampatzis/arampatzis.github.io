@@ -1,5 +1,5 @@
 +++
-title = 'Exams in undergraduate probability theory'
+title = 'Exams in undergraduate probability theory (in Greek)'
 date = 2026-02-17
 tags = ['Exams']
 type = 'posts'
