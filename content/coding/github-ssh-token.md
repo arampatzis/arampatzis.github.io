@@ -1,7 +1,7 @@
 +++
-title = 'How to open an account'
-date = 2026-02-06
-tags = ['Ubuntu']
+title = 'Connecting to Github'
+date = 2026-04-29
+tags = ['git','ssh','token']
 type = 'posts'
 +++
 
