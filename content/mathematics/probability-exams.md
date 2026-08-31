@@ -7,6 +7,8 @@ type = 'posts'
 
 ### 2026
 
+[September (Final)](/probability-exams/2026.09.pdf)
+
 [June (Final)](/probability-exams/2026.06.pdf)
 
 [January (Final)](/probability-exams/2026.01.pdf)
